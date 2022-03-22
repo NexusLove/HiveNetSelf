@@ -1,0 +1,6 @@
+aiohttp
+colorama
+discord
+numpy
+gtts
+bs4
